@@ -19,16 +19,3 @@ int main(){
         fahr = fahr + step;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
