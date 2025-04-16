@@ -11,7 +11,7 @@ int main() {
     step = 20;    // step size
 
     printf("Celsius to Farenheit Conversion Table\n");
-    printf("-------------------------------------\n");
+    printf("Celsius Farenheit\n");
 
     fahr = lower;
     while (fahr <= upper) {
