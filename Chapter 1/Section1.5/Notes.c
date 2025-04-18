@@ -7,7 +7,7 @@ This is important to realize because '\n' is also repersented in the ASCII chara
 
 #include <stdio.h>
 /* count lines in input */
-main(){
+int count_lines(){
     int c, nl;
 
     nl = 0;
@@ -19,3 +19,4 @@ main(){
     printf("%d\n", nl);
     return 0;
 }
+
