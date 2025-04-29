@@ -2,10 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "../UnitTestLibrary/munit/munit.h"
-#include <stdio.h>
-#include <string.h>
-
 // Include the code you want to test
 #include "../Chapter1/Section1.5/Exercise1_10.c"
 
