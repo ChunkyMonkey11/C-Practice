@@ -12,7 +12,7 @@ For all other characters, just print them normally.*/
 #include <stdio.h>
 #include <stdio.h>
 // 
-int main() {
+int exercise1_10_function() {
     int c;
     while ((c = getchar()) != EOF) {
         if (c == '\t') {
